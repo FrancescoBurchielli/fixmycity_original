@@ -3,7 +3,7 @@ The initial project was hosted on Gitlab. I transferred the source code here for
 The project has been discontinued. I am now working on an improved version 2.0, hosted on a different repo on my Github.
 
 ## Project motivation and scope
-The purpose of Fix My City is to give members of a community the opportunity to easily report any issue they spot in the town they live in (broken traffic light, a damaged park bench, litter not being collected, ecc.). Reporting an issues has intentionally beend made user-friendly and playful. Citizens collect points and achieve a certain status for reporting issues. Citizens can also upvote existing issues, thus increasing their urgency. The local city council can easily detect which issues are the most urgent at any given point, thanks to leaderboards as well as changing color property of the map markers. The upvoting mechanism also address the problem of issue duplication - a citizen will most likey upvote the issue his neighbour has opened, instead of creating a duplicate.
+The purpose of Fix My City is to give members of a community the opportunity to easily report any issue they spot in the town they live in (broken traffic light, a damaged park bench, litter not being collected, ecc.). Reporting an issue has intentionally been made user-friendly and gamified. Citizens collect points and achieve a certain status for reporting issues. Citizens can also upvote existing issues, thus increasing their urgency. The local city council can easily detect which issues are the most urgent at any given point, thanks to leaderboards as well as changing color property of the map markers. The upvoting mechanism also address the problem of issue duplication - a citizen will most likey upvote the issue their neighbour has opened, instead of creating a duplicate.
 
 ## Tech stack
 1. ReactJS
@@ -15,7 +15,7 @@ The purpose of Fix My City is to give members of a community the opportunity to 
 
 ## Features
 1. User can create and edit profile
-2. User can use map and search bar to navigate to his desired address
+2. User can use map and search bar to navigate to their desired address
 3. User can pin a specific point on the map
 4. User can create an issue by sharing a picture and information on the type of issue
 5. User can upvote an existing issue / remove upvote
@@ -25,7 +25,7 @@ The purpose of Fix My City is to give members of a community the opportunity to 
 9. User get points based on number of issues reported
 10. User achieves a certain status (scout / knight / legend / hero) as they colllect points
 11. User / Super-user can benefit from "hottest issues" page, where issues are ranked based on their urgency (number of upvotes)
-12. User can see his own reported issues as part of his profile info, listed in chronological order
+12. User can see their own reported issues as part of their profile info, listed in chronological order
 13. User can filter on the map for a specific issue category
 
 ## Known issues
